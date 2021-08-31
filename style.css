@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+h2 {
+    letter-spacing: 3.2px;
+    font-weight: bold;
+    font-size: 48px; 
+    color: #3D3D3D;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    border: 20px solid #BDC3C7;
+    width: 80%;
+}
+
+div {
+    text-align: right;
+    color: #3498DB
+}
+
+.p1 {
+    border-bottom: 5px solid #BDC3C7;
+    color: black;
+}
+
+.p2 {
+    border-bottom: 10px solid #BDC3C7;
+    color: black;
+}
+
+p {
+    color: black;
+}
